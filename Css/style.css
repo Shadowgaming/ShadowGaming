@@ -711,6 +711,7 @@ footer span a {
         overflow-x: hidden;
     }
     header {
+        position: absolute;
         top: 0;
     }
     header img {
