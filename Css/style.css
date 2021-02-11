@@ -669,6 +669,10 @@ footer span a {
         height: 70px;
         transform: translateY(-4px);    
     }
+    header {
+        position: absolute;
+        top: 0;
+    }
     nav .nav-1 {
         margin-left: 8vw;
     }
@@ -1016,7 +1020,11 @@ footer span a {
         width: 120px;
         height: 50px;
         transform: translateY(-3px);   
-    }       
+    }  
+    header {
+        position: absolute;
+        top: 0;
+    }     
     nav li {
         opacity: 0;
     }
@@ -1204,6 +1212,10 @@ footer span a {
         width: 120px;
         height: 50px;
         transform: translate(-4px, -4px);    
+    }
+    header {
+        position: absolute;
+        top: 0;
     }
     nav li {
         opacity: 0;
