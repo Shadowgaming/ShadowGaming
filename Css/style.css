@@ -672,6 +672,9 @@ footer span a {
     header {
         position: absolute;
         top: 0;
+        margin: 0;
+        padding: 0;
+
     }
     nav .nav-1 {
         margin-left: 8vw;
