@@ -669,10 +669,6 @@ footer span a {
         height: 70px;
         transform: translateY(-4px);    
     }
-    header {
-        position: absolute;
-        top: 0;
-    }
     nav .nav-1 {
         margin-left: 8vw;
     }
@@ -713,11 +709,6 @@ footer span a {
 @media screen and (max-width: 414px) {
     body {
         overflow-x: hidden;
-    }
-    header {
-        position: relative;
-        top: 0;
-        margin: 0;
     }
     header img {
         width: 130px;
@@ -1021,10 +1012,6 @@ footer span a {
         width: 120px;
         height: 50px;
         transform: translateY(-3px);   
-    }  
-    header {
-        position: absolute;
-        top: 0;
     }     
     nav li {
         opacity: 0;
@@ -1213,10 +1200,6 @@ footer span a {
         width: 120px;
         height: 50px;
         transform: translate(-4px, -4px);    
-    }
-    header {
-        position: absolute;
-        top: 0;
     }
     nav li {
         opacity: 0;
