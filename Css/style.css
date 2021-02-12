@@ -771,7 +771,7 @@ footer span a {
         background-attachment: scroll;
         background-position: 75%;
         overflow-y: hidden;
-        position: absolute;
+        box-sizing: border-box;
     }
     section.home h2 {
         position: absolute;
