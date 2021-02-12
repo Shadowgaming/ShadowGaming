@@ -772,10 +772,6 @@ footer span a {
         background-position: 75%;
         overflow-y: hidden;
     }
-    section.home:after {
-        content: "";
-        display: none;
-    }
     section.home h2 {
         position: absolute;
         top: 34%;
