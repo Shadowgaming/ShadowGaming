@@ -669,10 +669,6 @@ footer span a {
         height: 70px;
         transform: translateY(-4px);    
     }
-    header {
-        position: absolute;
-        top: 0;
-    }
     nav .nav-1 {
         margin-left: 8vw;
     }
@@ -714,10 +710,6 @@ footer span a {
     body {
         overflow-x: hidden;
     }
-    /* header {
-        position: absolute;
-        top: 0;
-    } */
     header img {
         width: 130px;
         height: 50px;
@@ -771,7 +763,7 @@ footer span a {
         background-attachment: scroll;
         background-position: 75%;
         overflow-y: hidden;
-        /* margin-top: -80px; */
+        margin-top: -80px;
     }
     section.home h2 {
         position: absolute;
@@ -1021,11 +1013,7 @@ footer span a {
         width: 120px;
         height: 50px;
         transform: translateY(-3px);   
-    }  
-    header {
-        position: absolute;
-        top: 0;
-    }     
+    }      
     nav li {
         opacity: 0;
     }
@@ -1213,10 +1201,6 @@ footer span a {
         width: 120px;
         height: 50px;
         transform: translate(-4px, -4px);    
-    }
-    header {
-        position: absolute;
-        top: 0;
     }
     nav li {
         opacity: 0;
