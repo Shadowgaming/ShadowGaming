@@ -768,9 +768,9 @@ footer span a {
         height: 100vh;
         color: rgb(255, 255, 255);
         background-image: url("../Images/Background.jpeg");
-        /* background-attachment: scroll; */
+        background-attachment: scroll;
         background-position: 75%;
-        overflow-y: hidden;
+        /* overflow-y: hidden; */
     }
     section.home h2 {
         position: absolute;
