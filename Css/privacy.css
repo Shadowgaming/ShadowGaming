@@ -224,7 +224,7 @@ footer span a {
         overflow-x: hidden;
     }
     header {
-        position: absolute;
+        position: relative;
         top: 0;
     }
     header img {
