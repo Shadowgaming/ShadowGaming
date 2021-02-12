@@ -712,7 +712,7 @@ footer span a {
 } 
 @media screen and (max-width: 414px) {
     body {
-        overflow: hidden;
+        overflow-x: hidden;
     }
     header {
         position: absolute;
@@ -768,7 +768,7 @@ footer span a {
         height: 100vh;
         color: rgb(255, 255, 255);
         background-image: url("../Images/Background.jpeg");
-        background-attachment: scroll;
+        /* background-attachment: scroll; */
         background-position: 75%;
         overflow-y: hidden;
     }
